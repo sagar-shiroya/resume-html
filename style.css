@@ -9,7 +9,7 @@
 }
 
 body {
-  background: #ffc30d;
+  background: rgba(210, 196, 12, 0.4);
   display: flex;
   justify-content: center;
   align-items: center;
